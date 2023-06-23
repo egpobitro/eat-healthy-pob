@@ -4,15 +4,39 @@ body {
 
 .top-section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width {
     width: 40%;
-    margin-left: 80px;
+    margin-left: 7%;
 }
 
 .half-width img {
-    width: 100%;
+    width: 80%;
+}
+
+.Second-half-width {
+    width: 40%;
+    margin-left: 7%;
+}
+
+.Second-half-width img {
+    width: 60%;
+}
+
+.Second-top {
+    display: flex;
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+
+.AboutHalf {
+    padding-top: 250px;
+}
+
+.AboutHalf p {
+    padding-bottom: 50px;
 }
 
 #slogan {
